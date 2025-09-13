@@ -16,3 +16,28 @@ Regression Modeling: Applied Linear and Polynomial Regression to model the rise 
 Decline Prediction: A predictive model was built based on the frequency of construction to forecast the dynasty when pyramid-building activity likely ceased.
 
 Dynasty Classification: A Random Forest Classifier was trained to predict a pyramid's dynasty based on its physical attributes (e.g., height, base, volume), achieving a classification accuracy score.
+
+## Technologies Used
+Python
+
+Pandas for data manipulation and analysis.
+
+NumPy for numerical operations.
+
+Matplotlib & Seaborn for data visualization.
+
+Scikit-learn for machine learning models and evaluation.
+
+## Dataset
+The project uses the Egyptian Pyramids Dataset available on Kaggle.
+
+## How to Run
+To run this project on your local machine, follow these steps:
+
+Clone the repository: git clone https://github.com/your-username/egyptian-pyramids-analysis.git
+cd egyptian-pyramids-analysis
+
+Install the required libraries
+
+Run the script:
+Ensure the pyramids.csv file is in the correct path and execute the main Python script.
