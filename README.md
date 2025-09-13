@@ -34,8 +34,7 @@ The project uses the Egyptian Pyramids Dataset available on Kaggle.
 ## How to Run
 To run this project on your local machine, follow these steps:
 
-Clone the repository: git clone https://github.com/your-username/egyptian-pyramids-analysis.git
-cd egyptian-pyramids-analysis
+Clone the repository: git clone https://www.kaggle.com/datasets/lsind18/egyptianpyramids
 
 Install the required libraries
 
